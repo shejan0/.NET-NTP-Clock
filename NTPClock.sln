@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTPClock", "NTPClock\NTPClock.csproj", "{F768124D-021A-461F-A0DA-B730AE2FE45D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F768124D-021A-461F-A0DA-B730AE2FE45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F768124D-021A-461F-A0DA-B730AE2FE45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F768124D-021A-461F-A0DA-B730AE2FE45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F768124D-021A-461F-A0DA-B730AE2FE45D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF4AF55-9E5B-4808-BA9B-102B442309C2}
+	EndGlobalSection
+EndGlobal
